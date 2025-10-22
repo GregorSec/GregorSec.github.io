@@ -1,5 +1,3 @@
-# Misc/Crypto Challenge: Captured Signal
-
 ---
 title: Captured Signal
 description: Official Writeup for Misc/Crypto Captured Signal
@@ -12,6 +10,7 @@ math: true
 mermaid: true
 ---
 
+# Misc/Crypto Challenge: Captured Signal
 
 ## Challenge Description
 
@@ -95,4 +94,5 @@ And here you have the final flag:
 ### Images Showing the Solution
 
 <figure class="image"><img style="aspect-ratio:1536/610;" src="_posts/MiscCrypto Challenge Captured Signal/MiscCrypto Challenge Captu.JPG" width="1536" height="610"></figure><figure class="image"><img style="aspect-ratio:1124/683;" src="_posts/MiscCrypto Challenge Captured Signal/1_MiscCrypto Challenge Captu.JPG" width="1124" height="683"></figure>
+
 
