@@ -52,9 +52,9 @@ Clearly we can determine this to be binary. When we decode this we get:
 >   
 > You need to change the output character encoding in Cyberchef from Raw Bytes to UTF-8 as seen below
 > 
-> <img src="5_MiscCrypto Challenge Captu.png" width="966" height="310">
+> <img src="_posts/MiscCrypto Challenge Captured Signal/5_MiscCrypto Challenge Captu.png" width="966" height="310">
 > 
-> <img src="7_MiscCrypto Challenge Captu.png" width="967" height="316">
+> <img src="_posts/MiscCrypto Challenge Captured Signal/7_MiscCrypto Challenge Captu.png" width="967" height="316">
 
 #### Step 4
 
@@ -94,4 +94,5 @@ And here you have the final flag:
 
 ### Images Showing the Solution
 
-<figure class="image"><img style="aspect-ratio:1536/610;" src="MiscCrypto Challenge Captu.JPG" width="1536" height="610"></figure><figure class="image"><img style="aspect-ratio:1124/683;" src="1_MiscCrypto Challenge Captu.JPG" width="1124" height="683"></figure>
+<figure class="image"><img style="aspect-ratio:1536/610;" src="_posts/MiscCrypto Challenge Captured Signal/MiscCrypto Challenge Captu.JPG" width="1536" height="610"></figure><figure class="image"><img style="aspect-ratio:1124/683;" src="_posts/MiscCrypto Challenge Captured Signal/1_MiscCrypto Challenge Captu.JPG" width="1124" height="683"></figure>
+
