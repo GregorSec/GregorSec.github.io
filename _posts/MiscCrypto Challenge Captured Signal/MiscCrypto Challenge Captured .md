@@ -1,4 +1,18 @@
 # Misc/Crypto Challenge: Captured Signal
+
+---
+title: Captured Signal
+description: Official Writeup for Misc/Crypto Captured Signal
+author: gregorsec
+date: 2025-10-22 18:11:00 +0800
+categories: [Writeups, Authored]
+tags: [Misc,Crypto,CTF Challenge]
+pin: true
+math: true
+mermaid: true
+---
+
+
 ## Challenge Description
 
 > One of our satellites intercept a signal coming from Kepler-22b, it could be nothing but we want you to verify that it is nothing.
