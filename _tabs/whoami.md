@@ -1,6 +1,6 @@
 ---
-layout: page
-title: 
+layout: whoami
+title: whoami
 permalink: /whoami/
 icon: fas fa-info-circle
 order: 4
